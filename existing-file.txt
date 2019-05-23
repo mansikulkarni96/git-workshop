@@ -1,3 +1,7 @@
 This is a file we&apos;ll edit
 
+<<<<<<< HEAD
 Also changed it here
+=======
+Changed!
+>>>>>>> conflict
